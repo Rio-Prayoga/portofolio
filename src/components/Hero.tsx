@@ -20,7 +20,7 @@ const Hero = () => {
               <div className="w-full h-full rounded-full bg-white flex items-center justify-center">
                 <div className="w-28 h-28 rounded-full overflow-hidden">
                   <img
-                    src="/public/img/rio.jpg"
+                    src="/img/rio.jpg"
                     alt="Foto Profil"
                     className="w-full h-full object-cover"
                   />
